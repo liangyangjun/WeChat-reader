@@ -1,6 +1,5 @@
 **微信小程序正式公测，** [张小龙全面阐述小程序，定档1月9日上线（附90分钟演讲全文） ...](https://link.zhihu.com/?target=http%3A//www.wxapp-union.com/portal.php%3Fmod%3Dview%26aid%3D911)
 
-前言：**新人第一坑，跳坑指南：修改后，必须保存；ctrl+S；**
 
 1：官方工具：[https://mp.weixin.qq.com/debug/w ... tml?t=1476434678461](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html%3Ft%3D1476434678461)
 
